@@ -1,0 +1,11 @@
+project/
+│
+├── app.py               # Main backend code (Flask application)
+├── requirements.txt     # Python dependencies
+├── static/              # Folder for static assets like CSS, JS, images
+│   ├── css/
+│   │   └── style.css    # CSS file for styling
+│   └── js/
+│       └── script.js    # JavaScript file for frontend behavior
+└── templates/           #  HTML folder
+    └── index.html       # Main 
